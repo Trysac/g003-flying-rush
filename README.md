@@ -23,12 +23,12 @@ longer run it (see [Where it came from](#where-it-came-from)).
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Flying-Rush](https://trysac.github.io/Flying-Rush/)
+- **In your browser:** [trysac.github.io/g003-flying-rush](https://trysac.github.io/g003-flying-rush/)
 - **On itch.io:** [trysac.itch.io/flying-rush](https://trysac.itch.io/flying-rush)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Flying-Rush.git
+  git clone https://github.com/Trysac/g003-flying-rush.git
   ```
 
 ## Run it
